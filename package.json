@@ -1,0 +1,21 @@
+{
+  "name": "webdevsimple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js",
+    "devStart": "nodemone index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express-ejs-layouts": "^2.5.0",
+    "expresss": "0.0.0",
+    "mongoose": "^5.6.13"
+  },
+  "devDependencies": {
+    "dotenv": "^8.1.0"
+  }
+}
